@@ -1,0 +1,12 @@
+# Title: Custom add list
+#
+# This is custom black ad list designed to fight with annoying advertising.
+# This is attempt to build shield for hiding from ads.
+#
+# Project home page: https://github.com/vlisnevskiy/ad.shield
+# ===========================================================================================
+
+0.0.0.0 servetraff.com
+0.0.0.0 betking.com.ua
+0.0.0.0 franeski.net
+0.0.0.0 ad2the.net
