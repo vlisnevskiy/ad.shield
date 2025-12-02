@@ -22,8 +22,9 @@
 0.0.0.0 cdn77.srv224.com
 
 # bestssrv.com
-0.0.0.0 cdn77-fs.bestssrv.com
 0.0.0.0 bestssrv.com
+0.0.0.0 cdn77.bestssrv.com
+0.0.0.0 cdn77-fs.bestssrv.com
 
 # slotscity.ua
 0.0.0.0 go.scityweb.com
